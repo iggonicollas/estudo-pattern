@@ -1,0 +1,10 @@
+loja\santanderpoints\config\SwaggerConfig.class
+loja\santanderpoints\servico\ClienteCep.class
+loja\santanderpoints\clientes\Endereco.class
+loja\santanderpoints\controlador\ClienteControle.class
+loja\santanderpoints\servico\ClienteImplementacao.class
+loja\santanderpoints\clientes\Cliente.class
+loja\santanderpoints\Application.class
+loja\santanderpoints\servico\ClienteServico.class
+loja\santanderpoints\clientes\EnderecoRepositorio.class
+loja\santanderpoints\clientes\ClienteRepositorio.class
